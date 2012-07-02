@@ -1,13 +1,17 @@
 # lcug-test-generative
 
-FIXME: write description
+A small lightening talk presentation introducting test.generative for the London Clojure Usergroup
 
 ## Usage
 
-FIXME: write
+(use 'lcug-test-generative.core)
+(in-ns 'lcug-test-generatve.core)
+
+now go and eval the examples !
+
 
 ## License
 
-Copyright (C) 2012 FIXME
+Copyright (C) 2012 Jennifer Smith
 
 Distributed under the Eclipse Public License, the same as Clojure.
